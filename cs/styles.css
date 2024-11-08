@@ -1,0 +1,14 @@
+#agregar {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(
+      45deg,
+      rgb(70, 58, 180) 0%,
+      rgb(29, 178, 253) 50%,
+      rgb(69, 252, 237) 100%
+    );
+    border-radius: 7px;
+    width: 150px;
+    height: 100px;
+    font-size: larger;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
